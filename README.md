@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://uxuiprinciples.com">
+    <img src="https://uxuiprinciples.com/android-chrome-512x512.png" alt="UX/UI Principles" width="100">
+  </a>
+</div>
+
 # UX/UI Principles — Agent Skills
 
 Five SKILL.md files that inject UX expertise into AI agents. Works with Cursor, Windsurf, kx, Claude Code, and any framework that reads SKILL.md.
